@@ -1,3 +1,4 @@
+#!/bin/bash
 mkdir -p zipped_directories
 
 for i in */; do
